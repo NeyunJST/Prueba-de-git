@@ -9,7 +9,7 @@
 .header__title{
     padding: 50px;
     background-color: burlywood;
-    font-size: 60px;    
+    font-size: 60px;
 }
 
 .navbar{
@@ -50,4 +50,15 @@ img {
 .navbar__item a:hover{
     color: white;
     font-size: 125%;
+}
+
+footer li{
+    display: inline-block;
+    padding: 10px;
+}
+
+footer article{
+    
+    float: left;
+    
 }
