@@ -9,8 +9,7 @@
 .header__title{
     padding: 50px;
     background-color: burlywood;
-    font-size: 60px;
-    
+    font-size: 60px;    
 }
 
 .navbar{
@@ -27,10 +26,22 @@
     color: black;
 }
 img {
-    width: 25%;
-    height: 25%;
+    width: 50%;
+    height: 50%;
 }
 
+.content{
+    width: auto;
+    background-color:cadetblue;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 0;
+}
+.clear{
+    clear: both;
+}
 .footer{
     padding: 50px;
     background-color: rgba(71, 68, 95, 0.418);
