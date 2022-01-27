@@ -46,3 +46,8 @@ img {
     padding: 50px;
     background-color: rgba(71, 68, 95, 0.418);
 }
+
+.navbar__item a:hover{
+    color: white;
+    font-size: 125%;
+}
